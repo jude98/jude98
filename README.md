@@ -25,13 +25,17 @@ Other than coding, I spend a lot of time watching movies a lot and also series ğ
 
 **Connect with me ğŸ²**
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+<a href="https://discordapp.com/users/jude3938">
+  <img align="left" alt="Judith's Discord" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/discord/discord.svg" />
+</a>
 <a href="https://www.instagram.com/judith__george/">
-  <img align="left" alt="Judith's Instagram" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Judith's Instagram" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" />
+</a>
+<a href=www.linkedin.com/in/itsmejudith">
+  <img align="left" alt="Judith's Linkedin" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/05uu2w45gkiy621bqz1qimsgx">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Judith's Spotify" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/spotify/spotify.svg" />
 </a>
 
 
