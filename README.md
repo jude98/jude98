@@ -25,9 +25,8 @@ Other than coding, I spend a lot of time watching movies a lot and also series ğ
 
 **Connect with me ğŸ²**
 
-<a href="https://www.linkedin.com/in/itsmejudith/">
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+
 <a href="https://www.instagram.com/judith__george/">
   <img align="left" alt="Judith's Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />
 </a>
