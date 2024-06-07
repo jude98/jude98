@@ -28,7 +28,7 @@ Other than coding, I spend a lot of time watching movies a lot and also series ð
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <a href="https://www.instagram.com/judith__george/">
-  <img align="left" alt="Judith's Instagram" width="22px" src="[https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+  <img align="left" alt="Judith's Instagram" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://open.spotify.com/user/05uu2w45gkiy621bqz1qimsgx">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
