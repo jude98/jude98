@@ -47,4 +47,4 @@ Besides coding, I enjoy watching movies and series 🍿 and lifting weights 🏋
 
 <br><br>
 
-![Judith's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Judith's GitHub stats](https://github-readme-stats.vercel.app/api?username=jude98&show_icons=true&theme=radical)
