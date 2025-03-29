@@ -1,15 +1,13 @@
 ### Hey I am Judith George <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-A full stack javascript developer. More passionate about frontend and mainly working on React 👨🏻‍💻 .
-Likes to learn up new technologies and work around them. Focus mainly on learning the basic things of anyting first rather than diving directly into frameworks.
-I'm currently wokring on React and AWS serverless and currently learning testing javascript code using jest and cypress.
+A full stack JavaScript developer with a passion for frontend development👨🏻‍💻. Currently exploring Web3 technologies and building decentralized applications.
 
-Other than coding, I spend a lot of time watching movies a lot and also series 🍿. I lift weights 🏋️‍♂️
+I believe in mastering the fundamentals before diving into frameworks.
+Besides coding, I enjoy watching movies and series 🍿 and lifting weights 🏋️‍♂️.
 
-💬 Ask me about anything, always happy to help..
+💬 Ask me about anything, always happy to help!
 
 **Languages and Tools 🧰:**  
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -23,21 +21,30 @@ Other than coding, I spend a lot of time watching movies a lot and also series �
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 
-**Connect with me 🍲**
 
+
+**Current Web3 Focus 🚀:**
+- Solana and Ethereum ecosystem
+- DeFi protocol integration
+- NFT marketplace development
+- Web3 authentication using wallets
+- Smart contract development with Solidity and Rust
+- Cross-chain compatibility solutions
+
+**Connect with me 🍲**  
 <a href="https://discordapp.com/users/jude3938">
-  <img align="left" alt="Judith's Discord" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/discord/discord.svg" />
+  <img align="left" alt="Judith's Discord" width="22px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/discord.svg" />
 </a>
 <a href="https://www.instagram.com/judith__george/">
-  <img align="left" alt="Judith's Instagram" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" />
+  <img align="left" alt="Judith's Instagram" width="22px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg" />
 </a>
-<a href=www.linkedin.com/in/itsmejudith">
-  <img align="left" alt="Judith's Linkedin" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />
+<a href="https://www.linkedin.com/in/itsmejudith">
+  <img align="left" alt="Judith's Linkedin" width="22px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/05uu2w45gkiy621bqz1qimsgx">
-  <img align="left" alt="Judith's Spotify" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/spotify/spotify.svg" />
+<a href="t.me/jude98">
+  <img align="left" alt="Judith's Telegram" width="22px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/telegram.svg" />
 </a>
 
+<br><br>
 
-
-
+![Judith's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
